@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Directory
+comment1.params=
+comment1.target=Directory()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=data
+comment3.target=void\ dissect(java.lang.String)
+comment4.params=f\ h\ size\ client\ port
+comment4.target=void\ add(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=f
+comment5.target=void\ delete(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ printDirectory()
+comment7.params=index
+comment7.target=java.lang.String\ getFile(int)
+comment8.params=k
+comment8.target=void\ update(int)
+comment9.params=
+comment9.target=int\ getUpdate()
+numComments=10
